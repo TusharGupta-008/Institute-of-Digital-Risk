@@ -23,4 +23,9 @@ The website presents IDR as an industry-led training and deployment institute fo
 - Vanilla JavaScript (smooth scrolling and basic interaction)
 - Google Fonts (Inter)
 
-## Project Structure
+## Design Approach
+
+The visual identity uses a cube-inspired geometric symbol to represent structure, resilience, and multidimensional risk management. The colour palette of off-white, deep black, and vibrant orange creates strong contrast while maintaining a modern technology-focused aesthetic. The layout prioritizes clarity, accessibility, and responsiveness across devices.
+
+## Author
+Tushar Gupta
