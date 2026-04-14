@@ -1,31 +1,61 @@
-# Institute of Digital Risk (IDR) – Homepage Design
+# Institute of Digital Risk (IDR) – Homepage Design 🚀
 
-This project is a responsive single-page website created as part of the IDR design assignment. The goal was to design a simple brand identity and build a homepage that clearly communicates the mission and services of the Institute of Digital Risk.
+A modern, responsive homepage designed for an industry-focused institute working in digital, cyber, and AI risk.  
+The goal was to create a clean, structured, and trustworthy interface that clearly communicates the institute’s mission and offerings.
 
-## Live Demo
-https://tushargupta-008.github.io/Institute-of-Digital-Risk/
+---
 
-## Project Overview
-The website presents IDR as an industry-led training and deployment institute focused on digital, cyber, and AI risk. The homepage includes sections describing the institute’s mission, service pillars, community, and a call-to-action for program exploration and talent hiring.
+## 🌐 Live Demo
 
-## Features
-- Responsive single-page layout (desktop and mobile)
-- Sticky navigation bar with smooth scrolling
-- Hero section with call-to-action buttons
-- Service pillars section highlighting the core model
-- Community section describing target audience
-- Contact / register interest section
-- Custom cube-inspired logo representing structure and resilience
+👉 https://tushargupta-008.github.io/Institute-of-Digital-Risk/
 
-## Technologies Used
+---
+
+## 📸 Preview
+
+![Homepage](./hero-preview.png)
+
+---
+
+## ✨ Features
+
+- Clean and modern landing page UI
+- Strong hero section with clear messaging
+- Call-to-action focused design (Explore Programs, Hire Talent)
+- Sticky navigation for smooth user experience
+- Section-based layout (About, Pillars, Community, CTA)
+- Fully responsive across devices
+
+---
+
+## 🛠️ Tech Stack
+
 - HTML5 (semantic structure)
-- CSS3 (Flexbox/Grid for responsive layout)
-- Vanilla JavaScript (smooth scrolling and basic interaction)
-- Google Fonts (Inter)
+- CSS3 (Flexbox + responsive design)
+- Vanilla JavaScript (basic interactions)
+- Google Fonts
 
-## Design Approach
+---
 
-The visual identity uses a cube-inspired geometric symbol to represent structure, resilience, and multidimensional risk management. The colour palette of off-white, deep black, and vibrant orange creates strong contrast while maintaining a modern technology-focused aesthetic. The layout prioritizes clarity, accessibility, and responsiveness across devices.
+## 🎯 What I Focused On
 
-## Author
+- Designing for clarity and trust (important for institutional websites)
+- Creating strong call-to-action flow for user engagement
+- Maintaining clean visual hierarchy
+- Ensuring responsiveness across different screen sizes
+- Keeping UI minimal yet impactful
+
+---
+
+## 💡 Key Learning
+
+- Structuring landing pages for real-world use cases  
+- Improving UI/UX through spacing, typography, and layout  
+- Understanding how design impacts user navigation  
+- Building responsive layouts without frameworks  
+
+---
+
+## 👨‍💻 Author
+
 Tushar Gupta
